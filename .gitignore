@@ -1,3 +1,6 @@
+# Project specific settings files
+.idea/
+
 # Compiled class file
 *.class
 
